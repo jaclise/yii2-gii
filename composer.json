@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "funson86\\yii2-gii\\": ""
+            "jaclise\\yii2-gii\\": ""
         }
     }
 }
